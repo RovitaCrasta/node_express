@@ -1,0 +1,17 @@
+20220819	23:35:06	fd53b776-b4bf-47ea-a774-f5b820c7c14d	Error: Not Allowed by CORS
+20220819	23:42:19	73cdcf49-d108-4339-a49a-1288767d3d93	ReferenceError: response is not defined
+20220819	23:42:33	f550f525-e7c4-476b-ba82-25ef822c4b93	ReferenceError: response is not defined
+20220820	12:55:44	66d9adc8-83f6-4e39-8660-28192abd54e5	Error: ENOENT: no such file or directory, stat '/Users/rovitafermnacrasta/practice/node_express/views/subdir/test.html'
+20220820	12:56:42	69141cb8-3952-4af4-9794-a70a1454aee6	Error: ENOENT: no such file or directory, stat '/Users/rovitafermnacrasta/practice/node_express/views/subdir/test.html'
+20220820	13:05:49	7974914b-f367-454a-8116-dc1cdcf14a83	Error: ENOENT: no such file or directory, stat '/Users/rovitafermnacrasta/practice/node_express/routes/views/index.html'
+20220821	12:20:06	551b7f36-d40a-47ea-ab7c-39efe62f5cc0	TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))
+20220821	12:24:45	e3b0aa86-8794-440f-bb88-646cb7810e31	SyntaxError: Unexpected token i in JSON at position 4
+20220821	18:33:49	0fab9daf-73b7-4065-adde-a610d91e1839	SyntaxError: Unexpected string in JSON at position 21
+20220821	18:43:29	6381a8cd-b19b-4363-bba9-477152c20477	ReferenceError: cookies is not defined
+20220821	18:43:45	88dfd80c-e535-4360-909b-6402f6a15176	ReferenceError: cookies is not defined
+20220821	18:45:24	c6618bdb-14e1-42d9-b0dc-cc017617255f	ReferenceError: cookies is not defined
+20220821	19:34:07	9baa713e-ca49-454d-94b4-95d65fef4ed9	ReferenceError: Cannot access 'cookies' before initialization
+20220822	09:51:56	be8c04eb-ce19-4d07-ba0f-0d6cdc885426	TypeError: Cannot read property 'roles' of undefined
+20220822	10:06:01	8f7ad348-3920-4dd8-b825-7404f825f023	TypeError: Cannot read property 'username' of undefined
+20220823	11:12:58	8ddfb9d5-deeb-4434-842b-abacfbc75010	ReferenceError: data is not defined
+20220823	11:14:20	76d116ec-df66-4bc3-94fd-886d86c276ea	ReferenceError: data is not defined

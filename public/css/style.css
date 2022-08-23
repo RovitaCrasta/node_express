@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-size: 36px;
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+  background-color: lightgray;
+}
+h1 {
+  color: rgb(56, 53, 53);
+}
+img {
+  height: 300px;
+  width: 305px;
+}
